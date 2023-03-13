@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"Naval/key Takeaways.md","id":"0563912edb7de50d","x":-301,"y":-321,"width":400,"height":461,"color":"6"},
+		{"type":"file","file":"Naval/Goals.md","id":"34efa69f2d759366","x":197,"y":-121,"width":344,"height":320,"color":"6"}
+	],
+	"edges":[
+		{"id":"aca1bfabde6d75f6","fromNode":"0563912edb7de50d","fromSide":"right","toNode":"34efa69f2d759366","toSide":"left"}
+	]
+}
