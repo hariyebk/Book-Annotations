@@ -22,5 +22,3 @@ All annotations in this repository are licensed under the [Creative Commons Attr
 ## Acknowledgements
 
 I would like to thank the Obsidian team for creating such a powerful and intuitive knowledge management tool. Without Obsidian, these annotations would not have been possible.
-
-Written by Chatsonic
